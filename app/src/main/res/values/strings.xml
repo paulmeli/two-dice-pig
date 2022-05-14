@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">P1-CIS436</string>
+    <string name="player_2_total">Player 2 Total:</string>
+    <string name="player_1_total">Player 1 Total:</string>
+    <string name="current_player">Current Player:</string>
+    <string name="roll_dice">Roll Dice</string>
+    <string name="hold">Hold</string>
+    <string name="turn_total">Turn total:</string>
+    <string name="start_turn_total">0</string>
+    <string name="start_curr_player">P1</string>
+    <string name="start_p2_total">0</string>
+    <string name="start_p1_total">0</string>
+    <string name="first_dice_image">first dice image</string>
+    <string name="second_dice_image">second dice image</string>
+</resources>
